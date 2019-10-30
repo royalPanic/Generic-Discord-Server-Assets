@@ -1,4 +1,4 @@
-# Generic Discord Moderation Policies
+# Generic Discord Moderation Policies v1.0
 *This is a brief set of expected practices built to be a generic catch-all for most common moderation incidents, and is designed to work in conjunction with the rule set from the GDSA project.*
 
 
