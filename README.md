@@ -11,5 +11,5 @@ The goal of this repository is to provide a basic set of open-source assets for 
 6. Server Structure & Permissions Guide
 
 ## Current Progress:
-1. Ruleset
-2. Moderation Policies
+1. [Ruleset](https://github.com/royalPanic/Generic-Discord-Server-Assets/blob/master/ruleset.md)
+2. [Moderation Policies](https://github.com/royalPanic/Generic-Discord-Server-Assets/blob/master/moderation.md)
